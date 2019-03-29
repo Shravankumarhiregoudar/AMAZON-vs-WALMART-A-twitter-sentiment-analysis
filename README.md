@@ -22,6 +22,7 @@ python -m textblob.download_corpora
 ## Authentication
 
 https://apps.twitter.com/
+
 1.Open this link and click the button: ‘Create New App’
 
 2.Fill the application details. You can leave the callback url field empty.
